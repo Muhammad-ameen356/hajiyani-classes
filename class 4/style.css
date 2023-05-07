@@ -1,0 +1,17 @@
+/* * {
+  background-color: black;
+} */
+
+/* .name {
+  font-size: 130px;
+  color: red;
+} */
+
+body {
+    background-color: yellow;
+}
+
+.name {
+  font-size: 12px;
+  color: black;
+}
