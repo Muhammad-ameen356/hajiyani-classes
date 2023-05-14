@@ -1,0 +1,101 @@
+* {
+  margin: 0px;
+}
+
+body {
+  /* background-image: url("./images/free-car-icon-2897-thumb.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain; */
+}
+/* 
+.title {
+  background-color: orange;
+  color: white;
+}
+
+#classes {
+  background-color: black;
+  color: white;
+}
+
+p {
+  background-color: red;
+  color: white;
+}
+
+li > a {
+  background-color: orange;
+}
+
+div p {
+  background-color: red;
+}
+
+div + p {
+  background-color: blueviolet;
+}
+
+h1 {
+}
+
+div ~ p {
+  background-color: red;
+}
+
+.classes {
+  color: black;
+  background-color: black;
+  font-size: 24px;
+  font-weight: bolder;
+  text-decoration: underline;
+  text-transform: uppercase;
+  background-color: rgb(100, 100, 255);
+  background-color: rgba(100, 100, 255, 1);
+  text-align: right;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+} */
+
+.box {
+  width: 100px;
+  height: 100px;
+  /* background-color: orange; */
+  /* background-color: #000000; */
+  /* color: #fff; */
+  /* overflow-y: scroll; */
+  /* border-width: 1px;
+  border-color: black;
+  border-style: solid; */
+  border: 1px solid black;
+  margin: 10px 10px 10px 10px;
+  /* padding: 10px 10px 10px 10px; */
+  border-radius: 5px;
+  box-shadow: 2px 2px 14px 5px rgba(0, 0, 0, 0.55);
+  cursor: move;
+  background-image: url("./images/photo-1605559424843-9e4c228bf1c2.jpg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.box:hover {
+  background-color: red;
+  width: 200px;
+}
+
+.input {
+  padding: 2px 5px;
+}
+
+.input:focus {
+  color: green;
+}
+
+ul {
+  list-style-type: square;
+}
+
+input {
+  background-color: red;
+}
