@@ -1,0 +1,24 @@
+Firebase
+
+1) Create Project On firebase
+2) Install Node js
+3) Check the current Version of node.js (node -v) and npm (npm -v)
+4) installing firebase (npm i -g firebase-tools)
+5) firebase login (firebase login)
+6) firebase initialize (firebase init)
+7) firebase deploy (firebase deploy)
+
+Github
+
+1) Create account on github
+2) Create repository
+3) instaling git-scm
+4) Initialize git in your project (git init)
+5) checking git status (git status)
+6) staged changes (git add .)
+7) checking git status (git status)
+8) Commit your changes (git commit -m "<Your changes>")
+9) git remote add origin <https://repository link>
+10) git push 
+
+
