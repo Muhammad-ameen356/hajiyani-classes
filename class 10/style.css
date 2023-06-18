@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+}
+
+.main_contianer {
+  height: 100vh;
+  width: 100%;
+  background-image: url(./assets/car-back.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.first_top_container {
+  background-color: rgba(255, 255, 255, 0.336);
+  height: 5%;
+  display: flex;
+  justify-content: center;
+}
+
+.first_top_inner_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 85%;
+}
+
+.left_top_icons {
+  
+}
+.right_top_icons {
+  display: flex;
+ 
+}
+.mail_container {
+    display: flex;
+    margin-right: 20px;
+}
+.phone_container {
+    display: flex;
+}
